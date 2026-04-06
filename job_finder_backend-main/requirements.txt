@@ -1,0 +1,8 @@
+Flask
+flask-cors
+flask-compress
+supabase
+python-dotenv
+requests
+pillow
+gunicorn
